@@ -39,7 +39,9 @@ table, table td {
 	border-collapse:collapse;
 }
 img {
-	vertical-align:top; 
+	vertical-align:top;
+	border: 2px solid white;
+
 }
 embed { 
 	vertical-align:top;
