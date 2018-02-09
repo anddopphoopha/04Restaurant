@@ -59,19 +59,19 @@ header {height:121px;padding-top:31px;width:100%;overflow:hidden}
 .marg_right1 {margin-right:20px}
 .box {background:url(../images/menu_bg.png) repeat;color:#faf3ed;box-shadow:0 0 5px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 5px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 5px rgba(0, 0, 0, .4)}
 .box > div { 0 top no-repeat;padding:30px;padding-top:0;overflow:hidden}
-.box h4 {color:#FFCC66;font-size:12px;line-height:1.2em;padding:-10px 0 9px 0;letter-spacing:-1px}
+.box h4 {color:rgb(255, 102, 102);font-size:12px;line-height:1.2em;padding:-10px 0 9px 0;letter-spacing:-1px}
 .box h5 {color:#faf3ed;font-size:20px;line-height:1.2em;padding:-10px 0 9px 0;letter-spacing:-1px}
 .box h6 {color:#faf3ed;font-size:20px;line-height:1.2em;padding:50px 0 9px 0;letter-spacing:-1px}
-.box h2 {color:#FFCC66;padding:15px 0 12px 0; font-size:30px}
+.box h2 {color:rgb(255, 102, 102);padding:15px 0 12px 0; font-size:30px}
 .box h2 span {color:#faf3ed}
 .box figure {padding-bottom:13px}
 .list1 li a {font-style:italic;padding-left:12px;background:url(../images/marker_1.gif) 1px 8px no-repeat;color:#faf3ed}
 .list_1 {color:#fff}
 .list_1:hover {text-decoration:none}
-.button1 {display:inline-block;font-size:20px;color:#faf3ed;line-height:34px;padding:0 15px;background:#FC6;letter-spacing:-1px}
+.button1 {display:inline-block;font-size:20px;color:#faf3ed;line-height:34px;padding:0 15px;background:rgb(255, 102, 102);letter-spacing:-1px}
 .button1:hover {text-decoration:none;color:#1e0000;background:#faf3ed}
 .button2  {display:inline-block;font-size:20px;color:#1e0000;line-height:34px;padding:0 15px;background:#faf3ed;letter-spacing:-1px}
-.button2:hover {text-decoration:none;color:#faf3ed;background:#FC6}
+.button2:hover {text-decoration:none;color:#faf3ed;background:rgb(255, 102, 102)}
 .line1 {background:url(../images/line_vert1.gif) 285px 0 repeat-y}
 .line2 {background:url(../images/line_vert1.gif) 615px 0 repeat-y}
 .price {margin-top:-7px; font-size:12px;}
